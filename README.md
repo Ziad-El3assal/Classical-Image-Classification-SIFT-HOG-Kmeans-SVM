@@ -19,6 +19,19 @@ This project explores image classification using BOW representations and lays th
     * SIFT (Scale-Invariant Feature Transform)
     * HOG (Histogram of Oriented Gradients)
 
+**The Pipeline**
+   *`Extracting Feature`*<br><br>
+   ![image](https://github.com/Ziad-El3assal/Image-Classification-with-Bag-of-Words-and-Machine-Learning-Exploration/assets/84142720/c5a0b791-9825-44db-9793-d54ddcc50778)
+   
+   -------
+   *`SIFT Discriptors`*<br><br>
+   ![image](https://github.com/Ziad-El3assal/Image-Classification-with-Bag-of-Words-and-Machine-Learning-Exploration/assets/84142720/14e7b041-04c4-440c-919b-8c974ba5e4ba)
+
+   -------
+   *`Decision Making`*<br><br>
+   ![image](https://github.com/Ziad-El3assal/Image-Classification-with-Bag-of-Words-and-Machine-Learning-Exploration/assets/84142720/a712a782-3ff7-4c35-90f3-865995de6ad8)
+
+
 **Future Work**
 
 * Implement SVM classifiers for each class based on BOWs.
