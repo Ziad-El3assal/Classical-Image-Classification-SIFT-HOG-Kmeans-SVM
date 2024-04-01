@@ -29,7 +29,7 @@ def NaivePredicions(image,ClassDHistograms,clf,Type='SIFT'):
     predicted_class = None
     for label, class_hist in ClassDHistograms.items():
         for i in class_hist:
-            print(len(i))
+            #print(len(i))
             if len(i) != len(hist):
                 continue
             
